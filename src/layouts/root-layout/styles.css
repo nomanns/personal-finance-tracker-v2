@@ -1,0 +1,15 @@
+.root-layout    {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.logo   {
+    color: aliceblue;
+    font-family: 'Lato', sans-serif;
+    text-transform: lowercase;
+}
+
+.logo span  {
+    text-transform: uppercase;
+}
